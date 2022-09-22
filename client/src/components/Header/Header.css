@@ -1,0 +1,36 @@
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #040404;
+  padding: 20px 30px 20px 70px;
+  margin-bottom: 20px;
+}
+
+#logo {
+  height: 3vw;
+  width: 8vw;
+}
+
+#search-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#searchbar {
+  background-color: #040404;
+  border: none;
+  color: #c8c8c8;
+  font-size: 1.9rem;
+  width: 9vw;
+}
+
+#searchbar::placeholder {
+  color: #c8c8c8;
+}
+
+#search-icon {
+  color: #c8c8c8;
+  font-size: 1.5rem;
+}

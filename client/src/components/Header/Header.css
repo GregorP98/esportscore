@@ -8,8 +8,12 @@
 }
 
 #logo {
-  height: 3vw;
-  width: 8vw;
+  height: 5vw;
+  width: 9vw;
+}
+
+#name {
+  height: 5vw;
 }
 
 #search-container {

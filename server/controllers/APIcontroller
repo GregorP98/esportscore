@@ -4,11 +4,34 @@ const PAT = process.env.PAT;
 
 var myHeaders = new Headers();
 myHeaders.append("Authorization", `Bearer ${PAT}`);
-var requestOptions = {
+var options = {
   method: "GET",
   headers: myHeaders,
 };
 
-const rootUrl = "https://api.pandascore.co/";
+//for each game:
+//current tournaments --> results+matches in said tournament
+//upcoming tournaments --> matches in said tournament
 
-module.exports = {};
+const rootUrl = "https://api.pandascore.co/videogames";
+
+//I want something like current{game}Tournaments
+//CSGO
+
+const ongoingCSGOTournaments = await fetch(
+  "${rootUrl}/csgo/https://api.pandascore.co/csgo/tournaments/running?search[tier]=a&sort=&page=1&per_page=50",
+  options
+)
+  .then((response) => response.json())
+  .then((response) => console.log(response))
+  .catch((err) => console.error(err));
+
+const upcomingCSGOTournaments = await fetch(
+  "${rootUrl}/csgo/tournaments/upcoming",
+  options
+)
+  .then((response) => response.json())
+  .then((response) => console.log(response))
+  .catch((err) => console.error(err));
+
+module.exports = { currentCSGOTournaments, upcomingCSGOTournaments };

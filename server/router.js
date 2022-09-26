@@ -1,4 +1,4 @@
-const router = require('express').Router();
-const apicontroller
+const router = require("express").Router();
+const apicontroller = require("./controllers/APIcontroller");
 
-module.exports = router
+module.exports = router;

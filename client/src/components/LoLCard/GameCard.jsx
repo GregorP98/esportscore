@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 
 export default function GameCard({ game }) {
   return (
+    // checking i can click cards to navigate - need to change from google to appropriate endpoint.
     <a href="https://google.com" style={{ textDecoration: "none" }} to="/">
       <Card>
         <CardMedia

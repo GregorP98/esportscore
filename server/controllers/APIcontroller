@@ -1,0 +1,14 @@
+const path = require("path");
+require("dotenv").config({ path: path.resolve(_dirname, "../../.env") });
+const PAT = process.env.PAT;
+
+var myHeaders = new Headers();
+myHeaders.append("Authorization", `Bearer ${PAT}`);
+var requestOptions = {
+  method: "GET",
+  headers: myHeaders,
+};
+
+const rootUrl = "https://api.pandascore.co/";
+
+module.exports = {};

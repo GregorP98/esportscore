@@ -1,19 +1,25 @@
 import { options, rootUrl } from APIcontroller
 
-const ongoingCSGOTournaments = await fetch(
-    `${rootUrl}csgo/tournaments/running?search[tier]=a&sort=&page=1&per_page=50`,
+const recentFIFATournaments = await fetch(`${rootUrl}fifa/tournaments/past?search[tier]=s&page=1&per_page=10&sort=-begin_at`,
+options
+)   .then((response) => response.json())
+.then((response) => console.log(response))
+.catch((err) => console.error(err));
+
+const ongoingFIFATournaments = await fetch(
+    `${rootUrl}fifa/tournaments/running?search[tier]=s&sort=&page=1&per_page=10`,
     options
   )
     .then((response) => response.json())
     .then((response) => console.log(response))
     .catch((err) => console.error(err));
   
-  const upcomingCSGOTournaments = await fetch(
-    `${rootUrl}/csgo/tournaments/upcoming`,
+  const upcomingFIFATournaments = await fetch(
+    `${rootUrl}fifa/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=10`,
     options
   )
     .then((response) => response.json())
     .then((response) => console.log(response))
     .catch((err) => console.error(err));
 
-    module.exports = { ongoingCSGOTournaments, upcomingCSGOTournaments}
+    module.exports = { recentFIFATournaments, ongoingFIFATournaments, upcomingFIFATournaments}

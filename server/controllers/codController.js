@@ -1,19 +1,25 @@
 import { options, rootUrl } from APIcontroller
 
-const ongoingCSGOTournaments = await fetch(
-    `${rootUrl}csgo/tournaments/running?search[tier]=a&sort=&page=1&per_page=50`,
+const recentCODTournaments = await fetch(`${rootUrl}codmw/tournaments/past?search[tier]=s&page=1&per_page=10&sort=-begin_at`,
+options
+)   .then((response) => response.json())
+.then((response) => console.log(response))
+.catch((err) => console.error(err));
+
+const ongoingCODTournaments = await fetch(
+    `${rootUrl}codmw/tournaments/running?search[tier]=s&sort=&page=1&per_page=10`,
     options
   )
     .then((response) => response.json())
     .then((response) => console.log(response))
     .catch((err) => console.error(err));
   
-  const upcomingCSGOTournaments = await fetch(
-    `${rootUrl}/csgo/tournaments/upcoming`,
+  const upcomingCODTournaments = await fetch(
+    `${rootUrl}codmw/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=10`,
     options
   )
     .then((response) => response.json())
     .then((response) => console.log(response))
     .catch((err) => console.error(err));
 
-    module.exports = { ongoingCSGOTournaments, upcomingCSGOTournaments}
+    module.exports = { recentCODTournaments, ongoingCODTournaments, upcomingCODTournaments}

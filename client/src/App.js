@@ -1,6 +1,5 @@
 import Home from "./pages/home";
 import GameInfo from "./pages/gameInfo";
-import ReactDOM from "react-dom/client";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -25,6 +24,4 @@ function App() {
   );
 }
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
 export default App;

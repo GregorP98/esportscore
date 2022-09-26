@@ -7,7 +7,9 @@ import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 export default function Header() {
   return (
     <div id="navbar">
-      <img id="logo" src={Esports} alt="logo" />
+      <a href="http://localhost:3000">
+        <img id="logo" src={Esports} alt="logo" />
+      </a>
       <img id="name" src={Title} alt="title" />
       <div id="search-container">
         <FontAwesomeIcon id="search-icon" icon={faMagnifyingGlass} />

@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 
 export default function GameCard({ game }) {
   return (
-    <a href="https://google.com">
+    <a href="https://google.com" style={{ textDecoration: "none" }} to="/">
       <Card>
         <CardMedia
           style={{

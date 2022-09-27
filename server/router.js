@@ -15,6 +15,6 @@ router.get("/lol", getLOLTournaments);
 router.get("/ow", getOWTournaments);
 router.get("/r6siege", getR6STournaments);
 router.get("/rl", getRLTournaments);
-router.get("/val", getValTournaments);
+router.get("/valorant", getValTournaments);
 
 module.exports = router;

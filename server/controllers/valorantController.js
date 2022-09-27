@@ -9,19 +9,19 @@ const getValTournaments = async function (req, res) {
   try {
     console.log("getting tournaments");
     const recentBody = await fetch(
-      `${rootUrl}valorant/tournaments/past?search[tier]=s&page=1&per_page=10&sort=-begin_at`,
+      `${rootUrl}valorant/tournaments/past?search[tier]=s&page=1&per_page=3&sort=-begin_at`,
       options
     );
     const recentData = await recentBody.json();
     finalResponse.recent = recentData;
     const currentBody = await fetch(
-      `${rootUrl}valorant/tournaments/running?search[tier]=s&sort=&page=1&per_page=10`,
+      `${rootUrl}valorant/tournaments/running?search[tier]=s&sort=&page=1&per_page=3`,
       options
     );
     const currentData = await currentBody.json();
     finalResponse.current = currentData;
     const upcomingBody = await fetch(
-      `${rootUrl}valorant/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=10`,
+      `${rootUrl}valorant/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=3`,
       options
     );
     const upcomingData = await upcomingBody.json();

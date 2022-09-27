@@ -36,11 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.MuiCard-root {
-  height: 100%;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 10% 15% 50% 15% 10%;
-  grid-template-rows: 5% 33% 57% 5%;
-}

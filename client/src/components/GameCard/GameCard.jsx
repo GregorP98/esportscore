@@ -1,17 +1,22 @@
 import * as React from "react";
+import "./GameCard.css";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
+import { Link } from "react-router-dom";
 
 export default function GameCard({ game }) {
+  console.log("game is", game);
   return (
-    <a
-      href={"http://localhost:3000/" + game.slug}
+    <Link
+      to={{
+        pathname: `/${game.slug}`,
+      }}
+      state={game.slug}
       style={{ textDecoration: "none" }}
-      to="/"
     >
-      <Card>
+      <Card className="gameCard">
         <CardMedia
           style={{
             objectFit: "cover",
@@ -36,6 +41,6 @@ export default function GameCard({ game }) {
           </Typography>
         </CardContent>
       </Card>
-    </a>
+    </Link>
   );
 }

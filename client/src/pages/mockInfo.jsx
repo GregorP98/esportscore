@@ -3,10 +3,10 @@ import GameLayout from "../components/GameLayout/GameLayout";
 import { getVALTournaments } from "../services/APIservices";
 import { useEffect } from "react";
 
-function ValInfo() {
+function MockInfo() {
   useEffect(() => {
-    async function getVALdata() {
-      const result = await getVALTournaments();
+    async function getGamedata() {
+      const result = await getVALTournaments(game);
       console.log(result);
       if (result.error) {
         //display user friendly error
@@ -14,9 +14,9 @@ function ValInfo() {
         //display result.data in some way (using state? pass to gamelayout?)
       }
     }
-    getVALdata();
+    getGamedata();
   }, []);
   return <GameLayout />;
 }
 
-export default ValInfo;
+export default MockInfo;

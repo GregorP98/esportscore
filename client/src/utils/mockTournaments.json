@@ -1,0 +1,5164 @@
+{
+  "recent": [
+    {
+      "begin_at": "2022-05-26T22:00:00Z",
+      "end_at": "2022-05-29T12:26:00Z",
+      "id": 8002,
+      "league": {
+        "id": 300,
+        "image_url": "https://cdn.pandascore.co/images/league/image/300/msi-c8339nuz.png",
+        "modified_at": "2019-06-13T11:53:14Z",
+        "name": "Mid-Season Invitational",
+        "slug": "league-of-legends-mid-invitational",
+        "url": null
+      },
+      "league_id": 300,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-05-27T08:10:34Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-27T10:54:24Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631921,
+          "live": {
+            "opens_at": "2022-05-27T07:55:34Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631921"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-27T11:01:38Z",
+          "name": "Semifinal 1: RNG vs EG",
+          "number_of_games": 5,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-27T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-27T08:00:00Z",
+          "slug": "2022-05-27-a70fe7c6-a0f2-4298-ab52-3fe9a8b44a38",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=cblol",
+              "language": "pt",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/cblol"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lvpes",
+              "language": "es",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lvpes"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8002,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-28T08:11:54Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-28T10:28:49Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631922,
+          "live": {
+            "opens_at": "2022-05-28T07:56:54Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631922"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-28T10:36:32Z",
+          "name": "Semifinal 2: T1 vs G2",
+          "number_of_games": 5,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-28T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-28T08:00:00Z",
+          "slug": "2022-05-28-e9cf4bdf-3b81-46ef-8559-3233d6689c37",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=cblol",
+              "language": "pt",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/cblol"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8002,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-29T08:14:52Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-29T12:26:42Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631923,
+          "live": {
+            "opens_at": "2022-05-29T07:59:52Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631923"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-29T12:34:15Z",
+          "name": "Grand final: RNG vs T1",
+          "number_of_games": 5,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-29T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-29T08:00:00Z",
+          "slug": "royal-never-give-up-2022-05-29",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8002,
+          "winner_id": 74,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-05-29T17:10:35Z",
+      "name": "Knockout Stage",
+      "prizepool": "175000 United States Dollar",
+      "serie": {
+        "begin_at": "2022-05-09T22:00:00Z",
+        "description": null,
+        "end_at": "2022-05-29T12:26:00Z",
+        "full_name": "2022",
+        "id": 4534,
+        "league_id": 300,
+        "modified_at": "2022-05-29T17:10:35Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-mid-invitational-2022",
+        "tier": "s",
+        "winner_id": 74,
+        "winner_type": "Team",
+        "year": 2022
+      },
+      "serie_id": 4534,
+      "slug": "league-of-legends-mid-invitational-2022-knockout-stage",
+      "teams": [
+        {
+          "acronym": "RNG",
+          "id": 74,
+          "image_url": "https://cdn.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png",
+          "location": "CN",
+          "modified_at": "2022-09-12T08:04:13Z",
+          "name": "Royal Never Give Up",
+          "slug": "royal-never-give-up"
+        },
+        {
+          "acronym": "G2",
+          "id": 88,
+          "image_url": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "location": "DE",
+          "modified_at": "2022-08-14T22:10:22Z",
+          "name": "G2 Esports",
+          "slug": "g2-esports"
+        },
+        {
+          "acronym": "EG",
+          "id": 2876,
+          "image_url": "https://cdn.pandascore.co/images/team/image/2876/220px_evil_geniuses_2020logo_square.png",
+          "location": "US",
+          "modified_at": "2022-09-23T18:39:53Z",
+          "name": "Evil Geniuses",
+          "slug": "evil-geniuses"
+        },
+        {
+          "acronym": "T1",
+          "id": 126061,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126061/t_oscq04.png",
+          "location": "KR",
+          "modified_at": "2022-08-12T11:47:04Z",
+          "name": "T1",
+          "slug": "t1"
+        }
+      ],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": 74,
+      "winner_type": "Team"
+    },
+    {
+      "begin_at": "2022-05-19T22:00:00Z",
+      "end_at": "2022-05-29T13:00:00Z",
+      "id": 8001,
+      "league": {
+        "id": 300,
+        "image_url": "https://cdn.pandascore.co/images/league/image/300/msi-c8339nuz.png",
+        "modified_at": "2019-06-13T11:53:14Z",
+        "name": "Mid-Season Invitational",
+        "slug": "league-of-legends-mid-invitational",
+        "url": null
+      },
+      "league_id": 300,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-05-20T08:04:27Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T08:49:23Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631891,
+          "live": {
+            "opens_at": "2022-05-20T07:49:27Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631891"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T08:59:31Z",
+          "name": "T1 vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-20T08:00:00Z",
+          "slug": "2022-05-20-49e0ea5f-3e23-47d4-b4ad-6b5a4caba3e9",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-20T09:08:06Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T09:50:39Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631892,
+          "live": {
+            "opens_at": "2022-05-20T08:53:06Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631892"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T09:56:18Z",
+          "name": "EG vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-20T09:00:00Z",
+          "slug": "2022-05-20-c7ae3cf3-3d9d-4c9e-82eb-b8a219244093",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-20T10:08:32Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T10:57:17Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631893,
+          "live": {
+            "opens_at": "2022-05-20T09:53:32Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631893"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T11:01:23Z",
+          "name": "PSG vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-20T10:00:00Z",
+          "slug": "2022-05-20-07224665-3b27-4153-8783-49af4dfcf072",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126702,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-20T11:15:06Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T11:58:52Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631894,
+          "live": {
+            "opens_at": "2022-05-20T11:00:06Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631894"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T12:12:38Z",
+          "name": "G2 vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T11:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-20T11:20:00Z",
+          "slug": "2022-05-20-777b818a-e6a6-43bb-b068-425b7ef9e985",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-20T12:17:48Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T12:54:45Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631895,
+          "live": {
+            "opens_at": "2022-05-20T12:02:48Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631895"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T13:03:32Z",
+          "name": "SGB vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T12:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-20T12:20:00Z",
+          "slug": "2022-05-20-ab412a1c-d57e-4401-98ec-4c7100768dfa",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-20T13:12:24Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-20T13:53:28Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631896,
+          "live": {
+            "opens_at": "2022-05-20T12:57:24Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631896"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-20T14:03:41Z",
+          "name": "PSG vs T1",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-20T13:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-20T13:20:00Z",
+          "slug": "2022-05-20-0f031548-bbd6-4dc5-b11f-a82cd63625b2",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T08:06:25Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T08:49:15Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631897,
+          "live": {
+            "opens_at": "2022-05-21T07:51:25Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631897"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T09:21:07Z",
+          "name": "G2 vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T08:00:00Z",
+          "slug": "2022-05-21-abf02797-a092-4914-9540-46045413cf9d",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T09:07:27Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T09:50:17Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631898,
+          "live": {
+            "opens_at": "2022-05-21T08:52:27Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631898"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T10:17:03Z",
+          "name": "RNG vs PSG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T09:00:00Z",
+          "slug": "2022-05-21-c57d82cf-c206-4c4a-9b92-e0c78f003e3c",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T10:08:14Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T10:38:40Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631899,
+          "live": {
+            "opens_at": "2022-05-21T09:53:14Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631899"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T10:59:14Z",
+          "name": "T1 vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T10:00:00Z",
+          "slug": "2022-05-21-38ca6ffd-4c13-479d-abe6-b43eaf401577",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T10:56:59Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T11:40:47Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631900,
+          "live": {
+            "opens_at": "2022-05-21T10:41:59Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631900"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T12:02:48Z",
+          "name": "PSG vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T11:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T11:00:00Z",
+          "slug": "2022-05-21-8f0849dc-43c3-43bf-b2a7-ba2a63440086",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T12:01:38Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T12:41:39Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631901,
+          "live": {
+            "opens_at": "2022-05-21T11:46:38Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631901"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T12:53:55Z",
+          "name": "RNG vs T1",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T12:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T12:00:00Z",
+          "slug": "2022-05-21-4fd94755-2b29-4905-9a1c-a0f3e039a5c4",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-21T12:59:11Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-21T13:29:14Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631902,
+          "live": {
+            "opens_at": "2022-05-21T12:44:11Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631902"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-21T14:03:46Z",
+          "name": "SGB vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-21T13:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-21T13:00:00Z",
+          "slug": "2022-05-21-1d855d2d-4a68-4b1d-b441-22283eba898a",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T08:07:33Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T08:39:21Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631903,
+          "live": {
+            "opens_at": "2022-05-22T07:52:33Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631903"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T08:46:15Z",
+          "name": "EG vs T1",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T08:00:00Z",
+          "slug": "2022-05-22-9517bbb1-347a-49a3-ad2c-080b9be766a6",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T08:56:57Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T09:35:56Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631904,
+          "live": {
+            "opens_at": "2022-05-22T08:41:57Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631904"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T09:46:53Z",
+          "name": "G2 vs PSG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T09:00:00Z",
+          "slug": "2022-05-22-6ab613a2-abba-4bf2-ab8b-3e0e4bb6231c",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126702,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T09:53:18Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T10:36:50Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631905,
+          "live": {
+            "opens_at": "2022-05-22T09:38:18Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631905"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T10:47:46Z",
+          "name": "RNG vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T10:00:00Z",
+          "slug": "2022-05-22-0090461a-1e10-4b7c-b393-4316ad64523d",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T10:54:13Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T11:36:52Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631906,
+          "live": {
+            "opens_at": "2022-05-22T10:39:13Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631906"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T11:47:39Z",
+          "name": "T1 vs PSG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T11:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T11:00:00Z",
+          "slug": "2022-05-22-8effda96-bd6b-4757-94af-4dc222eda372",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T11:54:45Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T12:29:23Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631907,
+          "live": {
+            "opens_at": "2022-05-22T11:39:45Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631907"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T12:38:40Z",
+          "name": "RNG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T12:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T12:00:00Z",
+          "slug": "2022-05-22-7fbb7000-8ce5-4ae1-9ffb-48ae07bc6f2a",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-22T12:47:18Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-22T13:24:42Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631908,
+          "live": {
+            "opens_at": "2022-05-22T12:32:18Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631908"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-22T13:31:16Z",
+          "name": "EG vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-22T13:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-22T13:00:00Z",
+          "slug": "2022-05-22-34041df0-9bf2-4a8b-ac4b-bfebd6ad2949",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T08:06:09Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T08:47:53Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631909,
+          "live": {
+            "opens_at": "2022-05-23T07:51:09Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631909"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T08:56:47Z",
+          "name": "PSG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T08:00:00Z",
+          "slug": "2022-05-23",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126702,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T09:05:26Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T09:44:50Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631910,
+          "live": {
+            "opens_at": "2022-05-23T08:50:26Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631910"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T09:59:32Z",
+          "name": "T1 vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T09:00:00Z",
+          "slug": "2022-05-23-d931fcd8-6058-4458-ac28-ad9826a0bc63",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T10:02:22Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T10:45:23Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631911,
+          "live": {
+            "opens_at": "2022-05-23T09:47:22Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631911"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T11:02:50Z",
+          "name": "SGB vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T10:00:00Z",
+          "slug": "2022-05-23-e1197680-7f5e-4cbb-bba4-fae2632439a5",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T11:02:52Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T11:32:00Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631912,
+          "live": {
+            "opens_at": "2022-05-23T10:47:52Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631912"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T11:43:20Z",
+          "name": "G2 vs T1",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T11:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T11:00:00Z",
+          "slug": "2022-05-23-829e0fab-d1f9-420d-a95c-f20dff8442ee",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T11:49:50Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T12:25:39Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631913,
+          "live": {
+            "opens_at": "2022-05-23T11:34:50Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631913"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T12:40:58Z",
+          "name": "SGB vs PSG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T12:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T12:00:00Z",
+          "slug": "2022-05-23-cc4d4770-d5b4-4509-aa75-b25f19cc044c",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126073,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-23T12:44:59Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-23T13:16:54Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631914,
+          "live": {
+            "opens_at": "2022-05-23T12:29:59Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631914"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-23T13:26:02Z",
+          "name": "RNG vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-23T13:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-23T13:00:00Z",
+          "slug": "2022-05-23-24c17fef-1244-443c-bc19-a1ae97f78f3e",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T06:06:03Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T06:37:54Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631915,
+          "live": {
+            "opens_at": "2022-05-24T05:51:03Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631915"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T06:46:05Z",
+          "name": "G2 vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T06:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T06:00:00Z",
+          "slug": "2022-05-24",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126073,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T06:55:31Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T07:32:28Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631916,
+          "live": {
+            "opens_at": "2022-05-24T06:40:31Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631916"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T07:44:11Z",
+          "name": "EG vs PSG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T07:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T07:00:00Z",
+          "slug": "2022-05-24-ae357177-20ac-429c-8f5b-725ab0bf7e35",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T07:49:51Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T08:20:05Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631917,
+          "live": {
+            "opens_at": "2022-05-24T07:34:51Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631917"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T08:25:52Z",
+          "name": "SGB vs T1",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T08:00:00Z",
+          "slug": "2022-05-24-6370383b-e60c-4536-bbcb-08dea2d942c9",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T08:38:22Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T09:12:31Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631918,
+          "live": {
+            "opens_at": "2022-05-24T08:23:22Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631918"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T09:21:06Z",
+          "name": "PSG vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T09:00:00Z",
+          "slug": "2022-05-24-b3ac9fff-6c75-40d7-b19f-0f4d44c5efd4",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 74,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T09:30:07Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T10:11:50Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631919,
+          "live": {
+            "opens_at": "2022-05-24T09:15:07Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631919"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T10:16:47Z",
+          "name": "EG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T10:00:00Z",
+          "slug": "2022-05-24-ff89c23c-1dc2-4a97-86bf-3cbc7718974b",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-24T10:30:29Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-24T11:10:27Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631920,
+          "live": {
+            "opens_at": "2022-05-24T10:15:29Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631920"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-05-24T11:16:38Z",
+          "name": "T1 vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "http://twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-24T11:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-24T11:00:00Z",
+          "slug": "2022-05-24-6bdf2943-0683-46d7-8a45-b98281afa882",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8001,
+          "winner_id": 126061,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-05-29T17:10:35Z",
+      "name": "Rumble Stage",
+      "prizepool": null,
+      "serie": {
+        "begin_at": "2022-05-09T22:00:00Z",
+        "description": null,
+        "end_at": "2022-05-29T12:26:00Z",
+        "full_name": "2022",
+        "id": 4534,
+        "league_id": 300,
+        "modified_at": "2022-05-29T17:10:35Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-mid-invitational-2022",
+        "tier": "s",
+        "winner_id": 74,
+        "winner_type": "Team",
+        "year": 2022
+      },
+      "serie_id": 4534,
+      "slug": "league-of-legends-mid-invitational-2022-rumble-stage",
+      "teams": [
+        {
+          "acronym": "RNG",
+          "id": 74,
+          "image_url": "https://cdn.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png",
+          "location": "CN",
+          "modified_at": "2022-09-12T08:04:13Z",
+          "name": "Royal Never Give Up",
+          "slug": "royal-never-give-up"
+        },
+        {
+          "acronym": "G2",
+          "id": 88,
+          "image_url": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "location": "DE",
+          "modified_at": "2022-08-14T22:10:22Z",
+          "name": "G2 Esports",
+          "slug": "g2-esports"
+        },
+        {
+          "acronym": "EG",
+          "id": 2876,
+          "image_url": "https://cdn.pandascore.co/images/team/image/2876/220px_evil_geniuses_2020logo_square.png",
+          "location": "US",
+          "modified_at": "2022-09-23T18:39:53Z",
+          "name": "Evil Geniuses",
+          "slug": "evil-geniuses"
+        },
+        {
+          "acronym": "T1",
+          "id": 126061,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126061/t_oscq04.png",
+          "location": "KR",
+          "modified_at": "2022-08-12T11:47:04Z",
+          "name": "T1",
+          "slug": "t1"
+        },
+        {
+          "acronym": "SGB",
+          "id": 126073,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126073/220px_saigon_buffalologo_square.png",
+          "location": "VN",
+          "modified_at": "2022-09-12T08:04:14Z",
+          "name": "Saigon Buffalo",
+          "slug": "dashing-buffalo"
+        },
+        {
+          "acronym": "PSG",
+          "id": 126702,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "location": "HK",
+          "modified_at": "2022-08-19T11:45:21Z",
+          "name": "PSG Talon",
+          "slug": "talon-esports-league-of-legends"
+        }
+      ],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    {
+      "begin_at": "2022-05-09T22:00:00Z",
+      "end_at": "2022-05-14T11:35:00Z",
+      "id": 8000,
+      "league": {
+        "id": 300,
+        "image_url": "https://cdn.pandascore.co/images/league/image/300/msi-c8339nuz.png",
+        "modified_at": "2019-06-13T11:53:14Z",
+        "name": "Mid-Season Invitational",
+        "slug": "league-of-legends-mid-invitational",
+        "url": null
+      },
+      "league_id": 300,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-05-10T09:59:28Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-10T10:33:02Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631131,
+          "live": {
+            "opens_at": "2022-05-10T09:44:28Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631131"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=polsatgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-10T10:47:06Z",
+          "name": "ORD vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/polsatgames",
+          "original_scheduled_at": "2022-05-10T10:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-10T10:00:00Z",
+          "slug": "order-vs-g2-esports-2022-05-10",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=CBLOL",
+              "language": "pt",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/CBLOL"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-10T10:54:09Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-10T11:32:40Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631132,
+          "live": {
+            "opens_at": "2022-05-10T10:39:09Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631132"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=polsatgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-10T11:43:32Z",
+          "name": "EG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/polsatgames",
+          "original_scheduled_at": "2022-05-10T11:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-10T11:00:00Z",
+          "slug": "evil-geniuses-vs-g2-esports-2022-05-10",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=CBLOL",
+              "language": "pt",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/CBLOL"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=polsatgames",
+              "language": "pl",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/polsatgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-11T08:05:51Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-11T08:51:26Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631133,
+          "live": {
+            "opens_at": "2022-05-11T07:50:51Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631133"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=lvpes",
+          "match_type": "best_of",
+          "modified_at": "2022-05-11T09:00:26Z",
+          "name": "EG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/lvpes",
+          "original_scheduled_at": "2022-05-11T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-11T08:00:00Z",
+          "slug": "evil-geniuses-vs-g2-esports-2022-05-11",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=lvpes",
+              "raw_url": "https://www.twitch.tv/lvpes"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": false,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lvpes",
+              "language": "es",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/lvpes"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-11T09:12:22Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-11T10:03:12Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631134,
+          "live": {
+            "opens_at": "2022-05-11T08:57:22Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631134"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=lvpes",
+          "match_type": "best_of",
+          "modified_at": "2022-05-11T10:13:52Z",
+          "name": "ORD vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/lvpes",
+          "original_scheduled_at": "2022-05-11T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-11T09:00:00Z",
+          "slug": "order-vs-evil-geniuses-2022-05-11",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=lvpes",
+              "raw_url": "https://www.twitch.tv/lvpes"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": false,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lvpes",
+              "language": "es",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/lvpes"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-12T08:06:14Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-12T08:41:27Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631139,
+          "live": {
+            "opens_at": "2022-05-12T07:51:14Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631139"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-12T08:51:16Z",
+          "name": "ORD vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-12T08:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-12T08:00:00Z",
+          "slug": "order-vs-evil-geniuses-2022-05-12",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-12T08:59:29Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-12T09:31:32Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631140,
+          "live": {
+            "opens_at": "2022-05-12T08:44:29Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631140"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-12T09:37:59Z",
+          "name": "ORD vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-12T09:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-12T09:00:00Z",
+          "slug": "order-vs-g2-esports-2022-05-12",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T06:11:02Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T07:02:08Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631151,
+          "live": {
+            "opens_at": "2022-05-14T05:56:02Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631151"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T07:12:10Z",
+          "name": "EG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T06:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-05-14T06:00:00Z",
+          "slug": "evil-geniuses-vs-g2-esports-2022-05-14",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T07:19:56Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T07:52:12Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631152,
+          "live": {
+            "opens_at": "2022-05-14T07:04:56Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631152"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T07:55:52Z",
+          "name": "ORD vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T07:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-14T07:30:00Z",
+          "slug": "order-vs-evil-geniuses-2022-05-14",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T08:11:04Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T08:43:15Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631153,
+          "live": {
+            "opens_at": "2022-05-14T07:56:04Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631153"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T08:52:31Z",
+          "name": "ORD vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T08:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-14T08:30:00Z",
+          "slug": "order-vs-g2-esports-2022-05-14",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T09:03:38Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T09:44:09Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631154,
+          "live": {
+            "opens_at": "2022-05-14T08:48:38Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631154"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T09:51:10Z",
+          "name": "EG vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T09:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-14T09:30:00Z",
+          "slug": "evil-geniuses-vs-g2-esports-2022-05-14-d51ecd10-5c19-4b4a-90ac-1712935916f0",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T10:06:03Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T10:36:48Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631155,
+          "live": {
+            "opens_at": "2022-05-14T09:51:03Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631155"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T10:59:08Z",
+          "name": "ORD vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T10:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-14T10:30:00Z",
+          "slug": "order-vs-evil-geniuses-2022-05-14-58442039-c445-42de-9bd6-d79aa7ebdcea",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 2876,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-05-14T10:55:38Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": "2022-05-14T11:26:01Z",
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 631156,
+          "live": {
+            "opens_at": "2022-05-14T10:40:38Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/631156"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-05-14T11:31:44Z",
+          "name": "ORD vs G2",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-05-14T11:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-05-14T11:30:00Z",
+          "slug": "order-vs-g2-esports-2022-05-14-4bcc0fad-9554-47aa-8903-3560a0defd1e",
+          "status": "finished",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8000,
+          "winner_id": 88,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-05-29T17:10:35Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie": {
+        "begin_at": "2022-05-09T22:00:00Z",
+        "description": null,
+        "end_at": "2022-05-29T12:26:00Z",
+        "full_name": "2022",
+        "id": 4534,
+        "league_id": 300,
+        "modified_at": "2022-05-29T17:10:35Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-mid-invitational-2022",
+        "tier": "s",
+        "winner_id": 74,
+        "winner_type": "Team",
+        "year": 2022
+      },
+      "serie_id": 4534,
+      "slug": "league-of-legends-mid-invitational-2022-group-c",
+      "teams": [
+        {
+          "acronym": "G2",
+          "id": 88,
+          "image_url": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "location": "DE",
+          "modified_at": "2022-08-14T22:10:22Z",
+          "name": "G2 Esports",
+          "slug": "g2-esports"
+        },
+        {
+          "acronym": "ORD",
+          "id": 1521,
+          "image_url": "https://cdn.pandascore.co/images/team/image/1521/order_lol.png",
+          "location": "AU",
+          "modified_at": "2022-09-23T17:28:34Z",
+          "name": "ORDER",
+          "slug": "order"
+        },
+        {
+          "acronym": "EG",
+          "id": 2876,
+          "image_url": "https://cdn.pandascore.co/images/team/image/2876/220px_evil_geniuses_2020logo_square.png",
+          "location": "US",
+          "modified_at": "2022-09-23T18:39:53Z",
+          "name": "Evil Geniuses",
+          "slug": "evil-geniuses"
+        }
+      ],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": null,
+      "winner_type": "Team"
+    }
+  ],
+  "current": [],
+  "upcoming": [
+    {
+      "begin_at": "2022-09-28T22:00:00Z",
+      "end_at": null,
+      "id": 8934,
+      "league": {
+        "id": 297,
+        "image_url": "https://cdn.pandascore.co/images/league/image/297/220px-Worlds_2020.png",
+        "modified_at": "2020-09-15T14:03:55Z",
+        "name": "Worlds",
+        "slug": "league-of-legends-world-championship",
+        "url": null
+      },
+      "league_id": 297,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-09-29T20:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649708,
+          "live": {
+            "opens_at": "2022-09-29T19:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649708"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:42:51Z",
+          "name": "ISG vs MAD",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T00:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-09-29T20:00:00Z",
+          "slug": "2022-09-30-74e65a17-a392-4128-8ed6-fbce350bfbab",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-29T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649709,
+          "live": {
+            "opens_at": "2022-09-29T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649709"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:46:14Z",
+          "name": "MAD vs IW",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T01:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-09-29T23:00:00Z",
+          "slug": "2022-09-30-6abdf895-3ea4-4e8e-ae49-9966fd48491b",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T02:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649710,
+          "live": {
+            "opens_at": "2022-09-30T01:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649710"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:45:35Z",
+          "name": "SGB vs IW",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T02:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-30T02:00:00Z",
+          "slug": "2022-09-30-961ca422-8a4f-443a-afcf-882c92aaa99b",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T03:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649711,
+          "live": {
+            "opens_at": "2022-09-30T02:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649711"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:45:43Z",
+          "name": "DRX vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T03:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-30T03:00:00Z",
+          "slug": "2022-09-30-a52810ce-11e3-4865-825e-f49c87f27647",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T22:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649716,
+          "live": {
+            "opens_at": "2022-09-30T21:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649716"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:50:03Z",
+          "name": "SGB vs ISG",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T00:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-09-30T22:00:00Z",
+          "slug": "2022-10-01-e56a4032-2479-430f-a332-6f9fe62f1ee0",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T01:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649717,
+          "live": {
+            "opens_at": "2022-10-01T00:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649717"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:49:48Z",
+          "name": "DRX vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T01:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T01:00:00Z",
+          "slug": "2022-10-01-04d3c33f-2ac9-4358-b026-5f14bb0f971f",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T02:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649718,
+          "live": {
+            "opens_at": "2022-10-01T01:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649718"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:50:16Z",
+          "name": "MAD vs RNG",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T02:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T02:00:00Z",
+          "slug": "2022-10-01-e6e7be1a-cba5-433b-ae9c-6f23bd4df851",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T03:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649719,
+          "live": {
+            "opens_at": "2022-10-01T02:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649719"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:50:25Z",
+          "name": "IW vs DRX",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T03:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T03:00:00Z",
+          "slug": "2022-10-01-20995e8d-439c-450f-ae77-1108c88a4557",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T21:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649725,
+          "live": {
+            "opens_at": "2022-10-01T20:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649725"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:54:07Z",
+          "name": "MAD vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T01:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-10-01T21:00:00Z",
+          "slug": "2022-10-02-0fd527a5-ce45-400d-8fc4-62edf6d8d67d",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T00:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649724,
+          "live": {
+            "opens_at": "2022-10-01T23:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649724"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:53:15Z",
+          "name": "RNG vs ISG",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T00:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T00:00:00Z",
+          "slug": "2022-10-02-14a14bf9-f432-43c8-b9d4-9957b3dc5429",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T02:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649726,
+          "live": {
+            "opens_at": "2022-10-02T01:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649726"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:53:26Z",
+          "name": "RNG vs IW",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T02:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T02:00:00Z",
+          "slug": "2022-10-02-a764d3ca-ee25-4fb8-a781-b68dbf16ef23",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T03:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649727,
+          "live": {
+            "opens_at": "2022-10-02T02:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649727"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:53:34Z",
+          "name": "ISG vs DRX",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T03:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T03:00:00Z",
+          "slug": "2022-10-02-f6cdc054-9144-4399-9ee2-03e38bd41306",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649731,
+          "live": {
+            "opens_at": "2022-10-02T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649731"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:55:37Z",
+          "name": "IW vs ISG",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T23:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T23:00:00Z",
+          "slug": "2022-10-03-106f8bd5-be47-4e65-a86a-3920c8e580b1",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-03T00:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649732,
+          "live": {
+            "opens_at": "2022-10-02T23:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649732"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:55:45Z",
+          "name": "DRX vs MAD",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-03T00:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-03T00:00:00Z",
+          "slug": "2022-10-03-edbaf13d-a7ad-44af-bd1f-ad9346fc8e57",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-03T01:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649733,
+          "live": {
+            "opens_at": "2022-10-03T00:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649733"
+          },
+          "live_embed_url": null,
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:55:53Z",
+          "name": "RNG vs SGB",
+          "number_of_games": 1,
+          "official_stream_url": "http://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-03T01:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-03T01:00:00Z",
+          "slug": "2022-10-03-ba92b700-5eba-4f4f-878f-6d8923bb2572",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": null,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": null,
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "http://www.twitch.tv/riotgames"
+            }
+          ],
+          "tournament_id": 8934,
+          "winner_id": null,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-09-22T08:00:21Z",
+      "name": "Play-In Group B",
+      "prizepool": null,
+      "serie": {
+        "begin_at": "2022-09-28T22:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "2022",
+        "id": 5065,
+        "league_id": 297,
+        "modified_at": "2022-09-12T08:01:57Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-world-championship-2022",
+        "tier": "s",
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2022
+      },
+      "serie_id": 5065,
+      "slug": "league-of-legends-world-championship-2022-play-in-group-b",
+      "teams": [
+        {
+          "acronym": "RNG",
+          "id": 74,
+          "image_url": "https://cdn.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png",
+          "location": "CN",
+          "modified_at": "2022-09-12T08:04:13Z",
+          "name": "Royal Never Give Up",
+          "slug": "royal-never-give-up"
+        },
+        {
+          "acronym": "ISG",
+          "id": 147,
+          "image_url": "https://cdn.pandascore.co/images/team/image/147/220px_isuruslogo_square.png",
+          "location": "AR",
+          "modified_at": "2022-09-12T08:04:15Z",
+          "name": "Isurus",
+          "slug": "isurus-gaming"
+        },
+        {
+          "acronym": "IW",
+          "id": 126066,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126066/220px_istanbul_wildcatslogo_square.png",
+          "location": "TR",
+          "modified_at": "2022-09-12T08:04:15Z",
+          "name": "Istanbul Wildcats",
+          "slug": "istanbul-wildcats"
+        },
+        {
+          "acronym": "SGB",
+          "id": 126073,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126073/220px_saigon_buffalologo_square.png",
+          "location": "VN",
+          "modified_at": "2022-09-12T08:04:14Z",
+          "name": "Saigon Buffalo",
+          "slug": "dashing-buffalo"
+        },
+        {
+          "acronym": "DRX",
+          "id": 126370,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "location": "KR",
+          "modified_at": "2022-09-12T08:04:12Z",
+          "name": "DRX",
+          "slug": "dragonx"
+        },
+        {
+          "acronym": "MAD",
+          "id": 126536,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "location": null,
+          "modified_at": "2022-09-12T08:04:14Z",
+          "name": "MAD Lions",
+          "slug": "mad-lions-league-of-legends"
+        }
+      ],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    {
+      "begin_at": "2022-09-28T22:00:00Z",
+      "end_at": null,
+      "id": 8933,
+      "league": {
+        "id": 297,
+        "image_url": "https://cdn.pandascore.co/images/league/image/297/220px-Worlds_2020.png",
+        "modified_at": "2020-09-15T14:03:55Z",
+        "name": "Worlds",
+        "slug": "league-of-legends-world-championship",
+        "url": null
+      },
+      "league_id": 297,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-09-29T21:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649705,
+          "live": {
+            "opens_at": "2022-09-29T20:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649705"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:42:15Z",
+          "name": "FNC vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-29T21:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-29T21:00:00Z",
+          "slug": "2022-09-29-74b271a7-4460-4308-b9e5-ff242e485122",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-29T22:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649706,
+          "live": {
+            "opens_at": "2022-09-29T21:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649706"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:43:14Z",
+          "name": "LLL vs BYG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-29T22:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-29T22:00:00Z",
+          "slug": "2022-09-30-fb0200c1-1a8d-406d-b60b-0374c3fa0ca7",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T00:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649707,
+          "live": {
+            "opens_at": "2022-09-29T23:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649707"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:44:22Z",
+          "name": "CHF vs FNC",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-29T23:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-09-30T00:00:00Z",
+          "slug": "2022-09-30-1f3200c1-54ea-4ddf-92a4-3fb1abd416af",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T01:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649704,
+          "live": {
+            "opens_at": "2022-09-30T00:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649704"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:45:06Z",
+          "name": "DFM vs LLL",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-29T20:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-09-30T01:00:00Z",
+          "slug": "2022-09-29-c7c1d6e0-4abb-4e41-b5a7-58fe827ff01f",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T20:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649712,
+          "live": {
+            "opens_at": "2022-09-30T19:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649712"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:47:14Z",
+          "name": "FNC vs DFM",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T20:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-30T20:00:00Z",
+          "slug": "2022-09-30-78bef9b5-3098-4af1-8df2-ed3b014d9a84",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T21:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649713,
+          "live": {
+            "opens_at": "2022-09-30T20:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649713"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:47:26Z",
+          "name": "EG vs LLL",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T21:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-30T21:00:00Z",
+          "slug": "2022-09-30-b4c02ef0-a02a-4e3a-b373-7af393c585ff",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-09-30T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649715,
+          "live": {
+            "opens_at": "2022-09-30T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649715"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:47:57Z",
+          "name": "DFM vs CHF",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T23:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-09-30T23:00:00Z",
+          "slug": "2022-10-01-4c47cb45-cfbe-424e-a674-c31c7f0c5e03",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T00:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649714,
+          "live": {
+            "opens_at": "2022-09-30T23:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649714"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:49:28Z",
+          "name": "EG vs BYG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-09-30T22:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-10-01T00:00:00Z",
+          "slug": "2022-10-01-a19e6d09-e06b-4930-8da0-ff3222f51428",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T20:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649720,
+          "live": {
+            "opens_at": "2022-10-01T19:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649720"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:51:40Z",
+          "name": "LLL vs FNC",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T20:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T20:00:00Z",
+          "slug": "2022-10-01-846ae72c-9a38-4c15-bc8f-ea62a4ee239c",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T22:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649722,
+          "live": {
+            "opens_at": "2022-10-01T21:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649722"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:51:54Z",
+          "name": "BYG vs DFM",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T22:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T22:00:00Z",
+          "slug": "2022-10-02-4de39cd7-1425-4b8e-b7c0-8e47a0da86d1",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-01T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649723,
+          "live": {
+            "opens_at": "2022-10-01T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649723"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:52:04Z",
+          "name": "EG vs CHF",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T23:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-01T23:00:00Z",
+          "slug": "2022-10-02-f4e22063-784d-4215-bda4-ed93da3bd3d1",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T01:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649721,
+          "live": {
+            "opens_at": "2022-10-02T00:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649721"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:52:57Z",
+          "name": "CHF vs BYG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-01T21:00:00Z",
+          "rescheduled": true,
+          "scheduled_at": "2022-10-02T01:00:00Z",
+          "slug": "2022-10-01-1aab5856-2613-42f6-94cd-b6b8f2357c97",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T20:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649728,
+          "live": {
+            "opens_at": "2022-10-02T19:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649728"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:54:39Z",
+          "name": "BYG vs FNC",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T20:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T20:00:00Z",
+          "slug": "2022-10-02-e8459ef2-d2ea-4821-8796-aaad3347c983",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T21:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649729,
+          "live": {
+            "opens_at": "2022-10-02T20:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649729"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:54:54Z",
+          "name": "LLL vs CHF",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T21:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T21:00:00Z",
+          "slug": "2022-10-02-35d20103-c0d0-4959-abea-422d304b0e43",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-02T22:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649730,
+          "live": {
+            "opens_at": "2022-10-02T21:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649730"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-22T05:55:02Z",
+          "name": "DFM vs EG",
+          "number_of_games": 1,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-02T22:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-02T22:00:00Z",
+          "slug": "2022-10-03-3e67de2a-5f43-482b-85cd-d36f985af8e2",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=otplol_",
+              "language": "fr",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/otplol_"
+            }
+          ],
+          "tournament_id": 8933,
+          "winner_id": null,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-09-23T18:39:53Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie": {
+        "begin_at": "2022-09-28T22:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "2022",
+        "id": 5065,
+        "league_id": 297,
+        "modified_at": "2022-09-12T08:01:57Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-world-championship-2022",
+        "tier": "s",
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2022
+      },
+      "serie_id": 5065,
+      "slug": "league-of-legends-world-championship-2022-play-in-group-a",
+      "teams": [
+        {
+          "acronym": "DFM",
+          "id": 89,
+          "image_url": "https://cdn.pandascore.co/images/team/image/89/detonation-focusme-fpnjh4v7.png",
+          "location": "JP",
+          "modified_at": "2022-09-12T08:01:55Z",
+          "name": "DetonatioN FocusMe",
+          "slug": "detonation-focusme"
+        },
+        {
+          "acronym": "CHF",
+          "id": 92,
+          "image_url": "https://cdn.pandascore.co/images/team/image/92/chiefs-86mnaoxw.png",
+          "location": "AU",
+          "modified_at": "2022-09-12T08:01:57Z",
+          "name": "Chiefs Esports Club",
+          "slug": "chiefs"
+        },
+        {
+          "acronym": "FNC",
+          "id": 394,
+          "image_url": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "location": "GB",
+          "modified_at": "2022-09-12T08:01:54Z",
+          "name": "Fnatic",
+          "slug": "fnatic"
+        },
+        {
+          "acronym": "EG",
+          "id": 2876,
+          "image_url": "https://cdn.pandascore.co/images/team/image/2876/220px_evil_geniuses_2020logo_square.png",
+          "location": "US",
+          "modified_at": "2022-09-23T18:39:53Z",
+          "name": "Evil Geniuses",
+          "slug": "evil-geniuses"
+        },
+        {
+          "acronym": "LLL",
+          "id": 128313,
+          "image_url": "https://cdn.pandascore.co/images/team/image/128313/lou_dlogo_square.png",
+          "location": "BR",
+          "modified_at": "2022-09-12T08:01:56Z",
+          "name": "LOUD",
+          "slug": "loud"
+        },
+        {
+          "acronym": "BYG",
+          "id": 128546,
+          "image_url": "https://cdn.pandascore.co/images/team/image/128546/beyond_gaminglogo_square.png",
+          "location": "TW",
+          "modified_at": "2022-09-12T08:01:54Z",
+          "name": "Beyond Gaming",
+          "slug": "beyond-gaming"
+        }
+      ],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    {
+      "begin_at": "2022-10-03T18:00:00Z",
+      "end_at": "2022-10-05T04:00:00Z",
+      "id": 8960,
+      "league": {
+        "id": 297,
+        "image_url": "https://cdn.pandascore.co/images/league/image/297/220px-Worlds_2020.png",
+        "modified_at": "2020-09-15T14:03:55Z",
+        "name": "Worlds",
+        "slug": "league-of-legends-world-championship",
+        "url": null
+      },
+      "league_id": 297,
+      "live_supported": true,
+      "matches": [
+        {
+          "begin_at": "2022-10-03T18:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649734,
+          "live": {
+            "opens_at": "2022-10-03T17:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649734"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-16T09:17:56Z",
+          "name": "Elimination match 1: TBD vs TBD",
+          "number_of_games": 5,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-03T18:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-03T18:00:00Z",
+          "slug": "2022-10-03-4b9a68b6-f7d7-41b8-8de2-6eb155588e6f",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            }
+          ],
+          "tournament_id": 8960,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-03T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649735,
+          "live": {
+            "opens_at": "2022-10-03T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649735"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-16T09:18:11Z",
+          "name": "Elimination match 2: TBD vs TBD",
+          "number_of_games": 5,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-03T23:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-03T23:00:00Z",
+          "slug": "2022-10-04",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            }
+          ],
+          "tournament_id": 8960,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-04T18:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649736,
+          "live": {
+            "opens_at": "2022-10-04T17:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649736"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-16T09:18:26Z",
+          "name": "Qualification match 1: TBD vs TBD",
+          "number_of_games": 5,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-04T18:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-04T18:00:00Z",
+          "slug": "2022-10-04-616a0bb3-1fb1-409e-9716-13bd00f3eb3a",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            }
+          ],
+          "tournament_id": 8960,
+          "winner_id": null,
+          "winner_type": "Team"
+        },
+        {
+          "begin_at": "2022-10-04T23:00:00Z",
+          "detailed_stats": true,
+          "draw": false,
+          "end_at": null,
+          "forfeit": false,
+          "game_advantage": null,
+          "id": 649737,
+          "live": {
+            "opens_at": "2022-10-04T22:45:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/649737"
+          },
+          "live_embed_url": "https://player.twitch.tv/?channel=riotgames",
+          "match_type": "best_of",
+          "modified_at": "2022-09-16T09:18:40Z",
+          "name": "Qualification match 2: TBD vs TBD",
+          "number_of_games": 5,
+          "official_stream_url": "https://www.twitch.tv/riotgames",
+          "original_scheduled_at": "2022-10-04T23:00:00Z",
+          "rescheduled": false,
+          "scheduled_at": "2022-10-04T23:00:00Z",
+          "slug": "2022-10-05-719f853a-9dad-41fc-9fad-0b163fecab35",
+          "status": "not_started",
+          "streams": {
+            "english": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "official": {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            "russian": {
+              "embed_url": null,
+              "raw_url": null
+            }
+          },
+          "streams_list": [
+            {
+              "embed_url": "https://player.twitch.tv/?channel=riotgames",
+              "language": "en",
+              "main": true,
+              "official": true,
+              "raw_url": "https://www.twitch.tv/riotgames"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            },
+            {
+              "embed_url": "https://player.twitch.tv/?channel=lck_korea",
+              "language": "ko",
+              "main": false,
+              "official": false,
+              "raw_url": "https://www.twitch.tv/lck_korea"
+            }
+          ],
+          "tournament_id": 8960,
+          "winner_id": null,
+          "winner_type": "Team"
+        }
+      ],
+      "modified_at": "2022-09-22T08:01:38Z",
+      "name": "Play-In Elimination",
+      "prizepool": null,
+      "serie": {
+        "begin_at": "2022-09-28T22:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "2022",
+        "id": 5065,
+        "league_id": 297,
+        "modified_at": "2022-09-12T08:01:57Z",
+        "name": null,
+        "season": null,
+        "slug": "league-of-legends-world-championship-2022",
+        "tier": "s",
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2022
+      },
+      "serie_id": 5065,
+      "slug": "league-of-legends-world-championship-2022-play-in-elimination",
+      "teams": [],
+      "tier": "s",
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "winner_id": null,
+      "winner_type": "Team"
+    }
+  ]
+}

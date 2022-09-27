@@ -1,6 +1,6 @@
 import Home from "./pages/home";
 import GameInfo from "./pages/gameInfo";
-import ValInfo from "./pages/valInfo";
+// import ValInfo from "./pages/valInfo";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -17,7 +17,8 @@ function App() {
         <Route path="ow" element={<GameInfo />} />
         <Route path="r6siege" element={<GameInfo />} />
         <Route path="rl" element={<GameInfo />} />
-        <Route path="valorant" element={<ValInfo />} />
+        {/* <Route path="valorant" element={<ValInfo />} /> */}
+        <Route path="valorant" element={<GameInfo />} />
         {/* <Route path="*" element={<NoPage />} /> */}
         {/* create NoPage */}
       </Routes>

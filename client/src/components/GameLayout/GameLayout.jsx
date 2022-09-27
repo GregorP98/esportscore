@@ -1,8 +1,10 @@
 import Header from "../Header/Header.jsx";
 import "./GameLayout.css";
 import TwitchEmbed from "../TwitchEmbed/TwitchEmbed.jsx";
-import TournamentCard from "../TournamentsCard/TournamentsCard.jsx";
 import { Grid } from "@mui/material";
+import RecentCard from "../TournamentCards/RecentCard";
+import OngoingCard from "../TournamentCards/OngoingCard";
+import UpcomingCard from "../TournamentCards/UpcomingCard";
 
 export default function GameLayout() {
   return (
@@ -18,13 +20,13 @@ export default function GameLayout() {
           <TwitchEmbed />
         </Grid>
         <Grid item xs={6} height="38vh">
-          <TournamentCard />
+          <OngoingCard />
         </Grid>
         <Grid item xs={6} height="38vh">
-          <TournamentCard />
+          <RecentCard />
         </Grid>
         <Grid item xs={6} height="38vh">
-          <TournamentCard />
+          <UpcomingCard />
         </Grid>
       </Grid>
     </div>

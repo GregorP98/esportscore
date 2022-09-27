@@ -9,19 +9,19 @@ const getCSGOTournaments = async function (req, res) {
   try {
     console.log("getting tournaments");
     const recentBody = await fetch(
-      `${rootUrl}csgo/tournaments/past?search[tier]=a&page=1&per_page=10&sort=-begin_at`,
+      `${rootUrl}csgo/tournaments/past?search[tier]=a&page=1&per_page=3&sort=-begin_at`,
       options
     );
     const recentData = await recentBody.json();
     finalResponse.recent = recentData;
     const currentBody = await fetch(
-      `${rootUrl}csgo/tournaments/running?search[tier]=a&sort=&page=1&per_page=10`,
+      `${rootUrl}csgo/tournaments/running?search[tier]=a&sort=&page=1&per_page=3`,
       options
     );
     const currentData = await currentBody.json();
     finalResponse.current = currentData;
     const upcomingBody = await fetch(
-      `${rootUrl}csgo/tournaments/upcoming?search[tier]=a&sort=&page=1&per_page=10`,
+      `${rootUrl}csgo/tournaments/upcoming?search[tier]=a&sort=&page=1&per_page=3`,
       options
     );
     const upcomingData = await upcomingBody.json();

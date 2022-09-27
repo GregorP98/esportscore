@@ -7,26 +7,26 @@ const { options, rootUrl } = require("./APIController");
 const getCODTournaments = async function (req, res) {
   let finalResponse = {};
   try {
-    console.log("getting tournaments");
+    // console.log("getting tournaments");
     const recentBody = await fetch(
-      `${rootUrl}codmw/tournaments/past?search[tier]=s&page=1&per_page=10&sort=-begin_at`,
+      `${rootUrl}codmw/tournaments/past?search[tier]=s&page=1&per_page=3&sort=-begin_at`,
       options
     );
     const recentData = await recentBody.json();
     finalResponse.recent = recentData;
     const currentBody = await fetch(
-      `${rootUrl}codmw/tournaments/running?search[tier]=s&sort=&page=1&per_page=10`,
+      `${rootUrl}codmw/tournaments/running?search[tier]=s&sort=&page=1&per_page=3`,
       options
     );
     const currentData = await currentBody.json();
     finalResponse.current = currentData;
     const upcomingBody = await fetch(
-      `${rootUrl}codmw/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=10`,
+      `${rootUrl}codmw/tournaments/upcoming?search[tier]=s&sort=&page=1&per_page=3`,
       options
     );
     const upcomingData = await upcomingBody.json();
     finalResponse.upcoming = upcomingData;
-    console.log("here", finalResponse.upcoming);
+    // console.log("here", finalResponse.upcoming);
     res.status(200);
     res.send(finalResponse);
   } catch (error) {

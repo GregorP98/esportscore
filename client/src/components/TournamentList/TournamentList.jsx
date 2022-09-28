@@ -7,7 +7,7 @@ import ExpandLess from "@mui/icons-material/ExpandLess";
 import ExpandMore from "@mui/icons-material/ExpandMore";
 import { useState } from "react";
 export default function TournamentList({ input }) {
-  console.log("upcomingTourn is", input);
+  console.log("tournament is", input);
   let [open, setOpen] = useState([]);
 
   const handleClick = () => {
@@ -17,32 +17,26 @@ export default function TournamentList({ input }) {
   return (
     <List>
       <ListItemButton onClick={handleClick}>
-        <ListItemText primary={input} />
+        <ListItemText input={input} />
         {open ? <ExpandLess /> : <ExpandMore />}
       </ListItemButton>
       <Collapse in={!open} timeout="auto" unmountOnExit>
         <List component="div" disablePadding>
           <ListItemButton sx={{ pl: 4 }}>
-            <ListItemText
-              primary="Order vs G2 Esports"
-              secondary="10-October-2022 5pm CET"
-            />
+            <ListItemText />
+            "Order vs G2 Esports"
           </ListItemButton>
         </List>
         <List component="div" disablePadding>
           <ListItemButton sx={{ pl: 4 }}>
-            <ListItemText
-              primary="Evil Geniuses vs G2 Esports"
-              secondary="10-October-2022 7pm CET "
-            />
+            <ListItemText />
+            "Evil Geniuses vs G2 Esports"
           </ListItemButton>
         </List>
         <List component="div" disablePadding>
           <ListItemButton sx={{ pl: 4 }}>
-            <ListItemText
-              primary="Order vs Evil Geniuses"
-              secondary="11-October-2022 5pm CET"
-            />
+            <ListItemText />
+            "Order vs Evil Geniuses"
           </ListItemButton>
         </List>
       </Collapse>

@@ -5,7 +5,7 @@ import CardContent from "@mui/material/CardContent";
 import TournamentList from "../TournamentList/TournamentList";
 
 export default function RecentCard(recent) {
-  console.log("recentList is", recent[1]);
+  console.log("recentList is", recent.recent[1]);
   return (
     <Card>
       <CardHeader style={{ marginTop: "10" }} title="Recent Tournaments" />

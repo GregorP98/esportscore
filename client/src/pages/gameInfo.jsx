@@ -41,6 +41,42 @@ function GameInfo() {
         //display user friendly error
       } else {
         //display result.data in some way (using state? pass to gamelayout?)
+        return (
+          <div id="dashboard" style={{ margin: "auto" }}>
+            <Header />
+            <Box sx={{ flexGrow: 1 }}>
+              <Grid container spacing={1}>
+                <Grid item xs>
+                  {newUrl ? (
+                    <ReactPlayer
+                      style={{
+                        paddingBottom: 10,
+                        paddingLeft: 10,
+                      }}
+                      url={newUrl}
+                    />
+                  ) : (
+                    <Card>
+                      <h1>Sorry, no video available right now. </h1>
+                    </Card>
+                  )}
+                </Grid>
+                <Grid item xs>
+                  <RecentCard recent={recentTournaments} />
+                </Grid>
+                <Grid item xs>
+                  <OngoingCard ongoing={ongoingTournaments} />
+                </Grid>
+                <Grid item xs>
+                  <UpcomingCard
+                    upcoming={upcomingTournaments}
+                    style={{ paddingRight: 10 }}
+                  />
+                </Grid>
+              </Grid>
+            </Box>
+          </div>
+        );
       }
     }
     getGamedata();
@@ -91,42 +127,42 @@ function GameInfo() {
   //                     - CSGO has recent[0] with link, but displays no vid. Might happen elsewhere.
   // make something that checks from dashboard if a stream is live, and shows "live now"
   // when loading more than 1 card's data, wont reach useeffect therefore gets no data
-  return (
-    <div id="dashboard" style={{ margin: "auto" }}>
-      <Header />
-      <Box sx={{ flexGrow: 1 }}>
-        <Grid container spacing={1}>
-          <Grid item xs>
-            {newUrl ? (
-              <ReactPlayer
-                style={{
-                  paddingBottom: 10,
-                  paddingLeft: 10,
-                }}
-                url={newUrl}
-              />
-            ) : (
-              <Card>
-                <h1>Sorry, no video available right now. </h1>
-              </Card>
-            )}
-          </Grid>
-          <Grid item xs>
-            <RecentCard recent={recentTournaments} />
-          </Grid>
-          <Grid item xs>
-            <OngoingCard />
-          </Grid>
-          <Grid item xs>
-            <UpcomingCard
-              upcoming={upcomingTournaments}
-              style={{ paddingRight: 10 }}
-            />
-          </Grid>
-        </Grid>
-      </Box>
-    </div>
-  );
+  // return (
+  //   <div id="dashboard" style={{ margin: "auto" }}>
+  //     <Header />
+  //     <Box sx={{ flexGrow: 1 }}>
+  //       <Grid container spacing={1}>
+  //         <Grid item xs>
+  //           {newUrl ? (
+  //             <ReactPlayer
+  //               style={{
+  //                 paddingBottom: 10,
+  //                 paddingLeft: 10,
+  //               }}
+  //               url={newUrl}
+  //             />
+  //           ) : (
+  //             <Card>
+  //               <h1>Sorry, no video available right now. </h1>
+  //             </Card>
+  //           )}
+  //         </Grid>
+  //         <Grid item xs>
+  //           <RecentCard recent={recentTournaments} />
+  //         </Grid>
+  //         <Grid item xs>
+  //           <OngoingCard />
+  //         </Grid>
+  //         <Grid item xs>
+  //           <UpcomingCard
+  //             upcoming={upcomingTournaments}
+  //             style={{ paddingRight: 10 }}
+  //           />
+  //         </Grid>
+  //       </Grid>
+  //     </Box>
+  //   </div>
+  // );
 }
 
 export default GameInfo;

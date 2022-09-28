@@ -11,10 +11,10 @@ export default function Header() {
         <img id="logo" src={Esports} alt="logo" />
       </a>
       <img id="name" src={Title} alt="title" />
-      <div id="search-container">
+      {/* <div id="search-container">
         <FontAwesomeIcon id="search-icon" icon={faMagnifyingGlass} />
         <input id="searchbar" type="search" placeholder="Search"></input>
-      </div>
+      </div> */}
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import Home from "./pages/home";
 import GameInfo from "./pages/gameInfo";
-// import ValInfo from "./pages/valInfo";
+import MockInfo from "./pages/mockInfo";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -9,15 +9,15 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* <Route path="`${game.slug}`" element={<GameInfo />} /> */}
+        {/* <Route path="`${game.slug}`" element={<GameInfo />} /> is this doable? */}
         <Route path="csgo" element={<GameInfo />} />
         <Route path="codmw" element={<GameInfo />} />
         <Route path="fifa" element={<GameInfo />} />
-        <Route path="lol" element={<GameInfo />} />
+        {/* <Route path="lol" element={<GameInfo />} /> */}
+        <Route path="lol" element={<MockInfo />} />
         <Route path="ow" element={<GameInfo />} />
         <Route path="r6siege" element={<GameInfo />} />
         <Route path="rl" element={<GameInfo />} />
-        {/* <Route path="valorant" element={<ValInfo />} /> */}
         <Route path="valorant" element={<GameInfo />} />
         {/* <Route path="*" element={<NoPage />} /> */}
         {/* create NoPage */}
